@@ -739,28 +739,21 @@
   "poems": [
     {
       "id": "p1",
-      "text": "Two roads diverged in a wood, and I—\nI took the one less traveled by,\nAnd that has made all the difference.",
+      "text": "Two roads diverged in a yellow wood,\nAnd sorry I could not travel both\nAnd be one traveler, long I stood\nAnd looked down one as far as I could\nTo where it bent in the undergrowth;\n\nThen took the other, as just as fair,\nAnd having perhaps the better claim,\nBecause it was grassy and wanted wear;\nThough as for that the passing there\nHad worn them really about the same,\n\nAnd both that morning equally lay\nIn leaves no step had trodden black.\nOh, I kept the first for another day!\nYet knowing how way leads on to way,\nI doubted if I should ever come back.\n\nI shall be telling this with a sigh\nSomewhere ages and ages hence:\nTwo roads diverged in a wood, and I—\nI took the one less traveled by,\nAnd that has made all the difference.",
       "author": "Robert Frost",
       "history": "From 'The Road Not Taken' (1916), one of the most famous American poems.",
       "images": []
     },
     {
       "id": "p2",
-      "text": "Do not go gentle into that good night,\nOld age should burn and rave at close of day;\nRage, rage against the dying of the light.",
+      "text": "Do not go gentle into that good night,\nOld age should burn and rave at close of day;\nRage, rage against the dying of the light.\n\nThough wise men at their end know dark is right,\nBecause their words had forked no lightning they\nDo not go gentle into that good night.\n\nGood men, the last wave by, crying how bright\nTheir frail deeds might have danced in a green bay,\nRage, rage against the dying of the light.\n\nWild men who caught and sang the sun in flight,\nAnd learn, too late, they grieved it on its way,\nDo not go gentle into that good night.\n\nGrave men, near death, who see with blinding sight\nBlind eyes could blaze like meteors and be gay,   \nRage, rage against the dying of the light.\n\nAnd you, my father, there on the sad height,\nCurse, bless, me now with your fierce tears, I pray.\nDo not go gentle into that good night.\nRage, rage against the dying of the light.",
       "author": "Dylan Thomas",
       "history": "Written in 1947, addressed to his dying father.",
       "images": []
     },
     {
-      "id": "p3",
-      "text": "Hope is the thing with feathers\nThat perches in the soul,\nAnd sings the tune without the words,\nAnd never stops at all.",
-      "author": "Emily Dickinson",
-      "history": "Part of Dickinson's exploration of hope and resilience.",
-      "images": []
-    },
-    {
       "id": "p4",
-      "text": "If you can keep your head when all about you\nAre losing theirs and blaming it on you,\nIf you can trust yourself when all men doubt you,\nBut make allowance for their doubting too.",
+      "text": "If you can keep your head when all about you   \n    Are losing theirs and blaming it on you,   \nIf you can trust yourself when all men doubt you,\n    But make allowance for their doubting too;   \nIf you can wait and not be tired by waiting,\n    Or being lied about, don’t deal in lies,\nOr being hated, don’t give way to hating,\n    And yet don’t look too good, nor talk too wise:\n\nIf you can dream—and not make dreams your master;   \n    If you can think—and not make thoughts your aim;   \nIf you can meet with Triumph and Disaster\n    And treat those two impostors just the same;   \nIf you can bear to hear the truth you’ve spoken\n    Twisted by knaves to make a trap for fools,\nOr watch the things you gave your life to, broken,\n    And stoop and build ’em up with worn-out tools:\n\nIf you can make one heap of all your winnings\n    And risk it on one turn of pitch-and-toss,\nAnd lose, and start again at your beginnings\n    And never breathe a word about your loss;\nIf you can force your heart and nerve and sinew\n    To serve your turn long after they are gone,   \nAnd so hold on when there is nothing in you\n    Except the Will which says to them: ‘Hold on!’\n\nIf you can talk with crowds and keep your virtue,   \n    Or walk with Kings—nor lose the common touch,\nIf neither foes nor loving friends can hurt you,\n    If all men count with you, but none too much;\nIf you can fill the unforgiving minute\n    With sixty seconds’ worth of distance run,   \nYours is the Earth and everything that’s in it,   \n    And—which is more—you’ll be a Man, my son!",
       "author": "Rudyard Kipling",
       "history": "Opening lines from 'If—' (1895), written as advice to his son.",
       "images": []
