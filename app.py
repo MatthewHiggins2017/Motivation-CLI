@@ -381,11 +381,6 @@ ADD_TEMPLATE = '''
             <textarea name="history" id="history" placeholder="Background information about this entry..."></textarea>
         </div>
         
-        <div class="form-group">
-            <label for="images">Image URLs (optional, comma-separated)</label>
-            <input type="text" name="images" id="images" placeholder="https://example.com/image1.jpg">
-        </div>
-        
         <button type="submit">Add Entry</button>
     </form>
 {% endblock %}
@@ -455,20 +450,17 @@ def add_entry():
     text = request.form.get("text", "").strip()
     author = request.form.get("author", "").strip()
     history = request.form.get("history", "").strip()
-    images_raw = request.form.get("images", "").strip()
     
     if not text or not author:
         flash("Text and author are required", "error")
         return redirect(url_for("add_page"))
-    
-    images = [img.strip() for img in images_raw.split(",") if img.strip()] if images_raw else []
     
     entry = {
         "id": f"{'q' if entry_type == 'quote' else 'p'}{uuid.uuid4().hex[:8]}",
         "text": text,
         "author": author,
         "history": history,
-        "images": images
+        "images": []
     }
     
     data = load_data()
