@@ -183,11 +183,18 @@
             border-radius: 12px;          /* Curved corners */
         }
         
+        .apod-title-container {
+            margin-bottom: 1.5rem;
+            padding-bottom: 1rem;
+            border-bottom: 1px solid var(--border-color);
+        }
+        
         .apod-title {
-            font-size: 1.1rem;
-            font-weight: 500;
+            font-size: 1.3rem;
+            font-weight: 600;
             color: var(--text-color);
-            margin-top: 1.2rem;           /* 20% more margin */
+            margin: 0;
+            letter-spacing: 0.02em;
         }
         
         .apod-description {
@@ -198,22 +205,29 @@
         }
         
         .apod-explanation {
-            font-size: 0.95rem;
-            line-height: 1.6;
+            font-size: 1rem;
+            line-height: 1.9;             /* Increased line-height for readability */
             color: var(--text-color);
-            margin-bottom: 1.2rem;        /* 20% more margin */
+            margin-bottom: 1.8rem;
             max-width: 65ch;              /* 60-70 char limit */
+            text-align: justify;
+            text-justify: inter-word;
+        }
+        
+        .apod-footer {
+            padding-top: 1.2rem;
+            border-top: 1px solid var(--border-color);
         }
         
         .apod-copyright {
-            font-size: 0.8rem;
+            font-size: 0.85rem;
             color: var(--secondary-color);
             font-style: italic;
-            margin-bottom: 0.6rem;        /* 20% more margin */
+            margin-bottom: 0.5rem;
         }
         
         .apod-credit {
-            font-size: 0.8rem;
+            font-size: 0.85rem;
             color: var(--secondary-color);
         }
         
@@ -314,9 +328,13 @@
                 border-radius: 10px;
             }
             
+            .apod-title-container {
+                margin-bottom: 1.25rem;
+                padding-bottom: 0.875rem;
+            }
+            
             .apod-title {
-                font-size: 1rem;
-                margin-top: 1rem;
+                font-size: 1.15rem;
             }
             
             .apod-description {
@@ -326,8 +344,13 @@
             }
             
             .apod-explanation {
-                font-size: 0.9rem;
-                line-height: 1.7;
+                font-size: 0.95rem;
+                line-height: 1.85;
+                text-align: left;
+            }
+            
+            .apod-footer {
+                padding-top: 1rem;
             }
             
             footer {
@@ -419,12 +442,20 @@
         
         <main>
             
+            <section class="apod-section">
+                <div class="apod-media">
+                    <a href="https://apod.nasa.gov/apod/image/2602/MarsHappyFace_mgs_525.jpg" target="_blank">
+                        <img src="https://apod.nasa.gov/apod/image/2602/MarsHappyFace_mgs_960.jpg" alt="Galle: Happy Face Crater on Mars">
+                    </a>
+                </div>
+            </section>
+            
             
             <h2>Today's Quotes</h2>
             
         <div class="entry">
-            <p class="entry-text">"The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom."</p>
-            <p class="entry-author">— Isaac Asimov</p>
+            <p class="entry-text">"It’s hard to do a really good job on anything you don’t think about in the shower."</p>
+            <p class="entry-author">— Paul Graham</p>
             
             
             <button class="history-toggle" onclick="toggleHistory(this)">
@@ -433,7 +464,7 @@
                 </svg>
                 History
             </button>
-            <div class="history-content">Asimov was a biochemistry professor and prolific sci-fi author.</div>
+            <div class="history-content">Graham on obsession and deep focus. He suggests that true excellence requires a problem to occupy your subconscious mind, spilling over into your downtime.</div>
             
         </div>
         
@@ -451,16 +482,28 @@
                 </svg>
                 History
             </button>
-            <div class="history-content">From 'The Road Not Taken' (1916), one of the most famous American poems.</div>
+            <div class="history-content">From 'The Road Not Taken' (1916), one of the most famous American poems. It is often misinterpreted as a celebration of individualism, though Frost intended it as a tricky reflection on how we narrate our choices after the fact.</div>
             
         </div>
         
             
+            <h2>Astronomy Picture of the Day Information</h2>
             
+        <section class="apod-description">
+            <div class="apod-title-container">
+                <h3 class="apod-title">Galle: Happy Face Crater on Mars</h3>
+            </div>
+            <p class="apod-explanation">Mars has put on a happy face.  The Martian crater Galle is famous because it has internal markings that make it look like a face that is both smiling and winking.  These markings were originally discovered in the 1970s in pictures taken by the Viking Orbiter.  The Mars Global Surveyor (MGS) spacecraft that orbited Mars from 1996 to 2006 captured the featured picture.  Happy Face Crater and its iconic features were formed by chance billions of years ago when a city-sized asteroid slammed into the Martian surface.  All rocky planets and moons in our Solar System show impact craters, with the highest number of craters found on Earth's Moon and the planet Mercury. Earth and Venus would show the most, though, were it not for weather and erosion.   Sky Surprise: What picture did APOD feature on your birthday? (after 1995)</p>
+            <div class="apod-footer">
+                
+                <p class="apod-credit">Image courtesy of <a href="https://apod.nasa.gov/apod/astropix.html" target="_blank">NASA APOD</a></p>
+            </div>
+        </section>
+        
         </main>
         
         <footer>
-            <p>New inspiration every day</p>
+            <p>Get Started!</p>
         </footer>
     </div>
     <script>

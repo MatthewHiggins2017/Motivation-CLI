@@ -4,735 +4,749 @@
       "id": "q1",
       "text": "The only way to do great work is to love what you do.",
       "author": "Steve Jobs",
-      "history": "Said during his famous 2005 Stanford commencement speech.",
+      "history": "Delivered during his iconic 2005 Stanford commencement address, this speech reflected on his life's turning points. Jobs urged graduates to pursue their passions relentlessly, framing love for one's work as the essential component of true satisfaction.",
       "images": []
     },
     {
       "id": "q2",
       "text": "In the middle of difficulty lies opportunity.",
       "author": "Albert Einstein",
-      "history": "Einstein's perspective on challenges and growth.",
+      "history": "Often cited to illustrate Einstein's resilience, this quote suggests that obstacles are not dead ends but gateways to innovation. It reflects his belief that complex problems often force the creative thinking necessary for breakthroughs.",
       "images": []
     },
     {
       "id": "q3",
       "text": "The best time to plant a tree was 20 years ago. The second best time is now.",
       "author": "Chinese Proverb",
-      "history": "Ancient wisdom about taking action.",
+      "history": "This ancient piece of wisdom speaks to the human tendency to regret lost time. It serves as a gentle reminder that while we cannot change the past, immediate action is the most effective remedy for procrastination.",
       "images": []
     },
     {
       "id": "q4",
       "text": "What you get by achieving your goals is not as important as what you become by achieving your goals.",
       "author": "Zig Ziglar",
-      "history": "Ziglar was a renowned motivational speaker.",
+      "history": "Ziglar, a renowned motivational speaker, emphasized character development over material gain. He believed the discipline and growth required to reach a destination were far more valuable than the destination itself.",
       "images": []
     },
     {
       "id": "q5",
       "text": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
       "author": "Winston Churchill",
-      "history": "Spoken during World War II to inspire resilience.",
+      "history": "Spoken to inspire resilience, this quote captures the relentless spirit required during World War II. It reminds leaders that neither victory nor defeat is permanent; endurance is the only constant metric of success.",
       "images": []
     },
     {
       "id": "q7",
       "text": "I have not failed. I've just found 10,000 ways that won't work.",
       "author": "Thomas Edison",
-      "history": "Regarding his exhaustive experimentation to invent the light bulb.",
+      "history": "This famous retort regarding the light bulb highlights Edison's reframing of failure as data collection. It underscores the scientific method, where negative results are crucial steps toward the final solution.",
       "images": []
     },
     {
       "id": "q8",
       "text": "Science is a way of thinking much more than it is a body of knowledge.",
       "author": "Carl Sagan",
-      "history": "From his television series and book 'Cosmos'.",
+      "history": "Popularized in his series 'Cosmos', Sagan championed critical thinking and skepticism. He argued that the scientific method—questioning, testing, and observing—is more vital to humanity than the facts we currently possess.",
       "images": []
     },
     {
       "id": "q9",
       "text": "Make something people want.",
       "author": "Paul Graham",
-      "history": "The motto of Y Combinator, the world's most famous startup accelerator.",
+      "history": "This is the concise motto of Y Combinator, the world's most famous startup accelerator. It serves as a foundational rule for founders, warning them against building solutions for problems that do not actually exist.",
       "images": []
     },
     {
       "id": "q10",
       "text": "The best way to predict the future is to invent it.",
       "author": "Alan Kay",
-      "history": "Spoken by the computer scientist in 1971 regarding technological development.",
+      "history": "Spoken by the computer scientist in 1971 at Xerox PARC, the birthplace of modern computing. It reflects the proactive mindset of engineers who do not wait for trends but instead build the tools that define the next era.",
       "images": []
     },
     {
       "id": "q11",
       "text": "Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less.",
       "author": "Marie Curie",
-      "history": "Reflecting her dedication to science despite the dangers of radiation.",
-      "images": []
-    },
-    {
-      "id": "q12",
-      "text": "Move fast and break things. Unless you are breaking stuff, you are not moving fast enough.",
-      "author": "Mark Zuckerberg",
-      "history": "Facebook's early internal motto for development.",
+      "history": "Curie said this while reflecting on her dedication to science despite the known and unknown dangers of radiation. It remains a powerful call to replace ignorance and anxiety with education and research.",
       "images": []
     },
     {
       "id": "q13",
       "text": "If I had asked people what they wanted, they would have said faster horses.",
       "author": "Henry Ford",
-      "history": "Attributed to Ford regarding the leap from animals to automobiles.",
+      "history": "Attributed to Ford regarding the leap from animals to automobiles, this quote defends visionary innovation. It suggests that customers can describe their problems, but they often lack the imagination to conceive of radical new solutions.",
       "images": []
     },
     {
       "id": "q14",
       "text": "Innovation distinguishes between a leader and a follower.",
       "author": "Steve Jobs",
-      "history": "From 'The Innovation Secrets of Steve Jobs'.",
+      "history": "Found in 'The Innovation Secrets of Steve Jobs', this highlights the differentiator in competitive markets. Jobs believed that risk-taking and the pursuit of the new were the only ways to maintain a vanguard position.",
       "images": []
     },
     {
       "id": "q15",
       "text": "A ship in port is safe, but that's not what ships are built for.",
       "author": "Grace Hopper",
-      "history": "Spoken by the computer science pioneer regarding taking risks.",
+      "history": "Spoken by the computer science pioneer and naval officer, this analogy challenges the desire for security. Hopper used it to encourage young people to embrace the turbulent waters of experimentation rather than the safety of stagnation.",
       "images": []
     },
     {
       "id": "q16",
       "text": "Your most unhappy customers are your greatest source of learning.",
       "author": "Bill Gates",
-      "history": "From his book 'Business @ the Speed of Thought'.",
+      "history": "In 'Business @ the Speed of Thought', Gates framed complaints as vital feedback loops. Rather than ignoring criticism, he argued that dissatisfied users reveal exactly where a product is failing and how it must evolve.",
       "images": []
     },
     {
       "id": "q17",
       "text": "Any sufficiently advanced technology is indistinguishable from magic.",
       "author": "Arthur C. Clarke",
-      "history": "Clarke's Third Law, formulated in 1962.",
+      "history": "Known as Clarke's Third Law, formulated in 1962, this observes our reaction to progress. It suggests that when innovation outpaces our understanding, the mechanics become invisible, leaving only a sense of wonder.",
       "images": []
     },
     {
       "id": "q18",
       "text": "I think it is possible for ordinary people to choose to be extraordinary.",
       "author": "Elon Musk",
-      "history": "Musk discussing the potential of human agency and risk.",
+      "history": "Musk discusses the potential of human agency, rejecting the idea that greatness is innate. He posits that being 'extraordinary' is often a result of deliberate choices, risk tolerance, and persistence rather than just talent.",
       "images": []
     },
     {
       "id": "q19",
       "text": "Startups are a cliff you jump off, and you assemble an airplane on the way down.",
       "author": "Reid Hoffman",
-      "history": "Description of the entrepreneurial journey by the LinkedIn co-founder.",
+      "history": "A vivid description of the entrepreneurial journey by the LinkedIn co-founder. It captures the extreme pressure and the necessity of executing a plan in real-time before resources run out.",
       "images": []
     },
     {
       "id": "q20",
       "text": "It is not the strongest of the species that survives, nor the most intelligent; it is the one most adaptable to change.",
       "author": "Charles Darwin",
-      "history": "Summarizing the central concept of evolutionary biology.",
+      "history": "Summarizing the central concept of evolutionary biology, this quote is frequently applied to business. It warns that rigidity is fatal, while flexibility and responsiveness are the true markers of long-term survival.",
       "images": []
     },
     {
       "id": "q21",
       "text": "If we knew what it was we were doing, it would not be called research, would it?",
       "author": "Albert Einstein",
-      "history": "A humorous take on the nature of scientific discovery.",
+      "history": "A humorous take on the nature of scientific discovery, acknowledging the inherent uncertainty of the field. Einstein validates the state of confusion as a necessary part of exploring the unknown.",
       "images": []
     },
     {
       "id": "q22",
       "text": "Ideas are easy. Implementation is hard.",
       "author": "Guy Kawasaki",
-      "history": "Kawasaki emphasizing execution over mere ideation.",
+      "history": "Kawasaki, an early Apple evangelist, emphasizes execution over mere ideation. He argues that while many people have brilliant concepts, value is created only by those with the grit to build them.",
       "images": []
     },
     {
       "id": "q23",
       "text": "Somewhere, something incredible is waiting to be known.",
       "author": "Carl Sagan",
-      "history": "Reflecting the infinite potential of scientific exploration.",
+      "history": "Reflecting the infinite potential of scientific exploration, this quote inspires curiosity. It suggests that the universe is not empty, but rather filled with wonders that are simply waiting for our instruments to improve.",
       "images": []
     },
     {
       "id": "q24",
       "text": "Risk more than others think is safe. Dream more than others think is practical.",
       "author": "Howard Schultz",
-      "history": "Philosophy of the Starbucks CEO.",
+      "history": "The philosophy of the Starbucks CEO, who turned a local coffee shop into a global empire. It serves as a reminder that conventional wisdom often defines 'practicality' too narrowly for true visionaries.",
       "images": []
     },
     {
       "id": "q25",
       "text": "What I cannot create, I do not understand.",
       "author": "Richard Feynman",
-      "history": "Found on his blackboard at the time of his death.",
+      "history": "Found on his blackboard at the time of his death, this summarizes Feynman's learning philosophy. He believed that you only truly grasp a concept if you can derive it or build it from scratch.",
       "images": []
     },
     {
       "id": "q26",
       "text": "The advance of technology is based on making it fit in so that you don't really even notice it, so it's part of everyday life.",
       "author": "Bill Gates",
-      "history": "Discussing the ubiquity of successful computing.",
+      "history": "Discussing the ubiquity of successful computing, Gates argues that the best technology is seamless. True success occurs when a tool becomes so essential and reliable that it fades into the background of daily routine.",
       "images": []
     },
     {
       "id": "q27",
       "text": "Simplicity is the ultimate sophistication.",
       "author": "Leonardo da Vinci",
-      "history": "A principle that has guided art, science, and modern product design.",
+      "history": "A principle that has guided art, science, and modern product design for centuries. It suggests that removing the unnecessary is much harder than adding complexity, and that clarity is the highest form of mastery.",
       "images": []
     },
     {
       "id": "q28",
       "text": "Failure is an option here. If things are not failing, you are not innovating enough.",
       "author": "Elon Musk",
-      "history": "Regarding the culture at SpaceX and Tesla.",
+      "history": "Regarding the culture at SpaceX and Tesla, Musk normalizes failure as a byproduct of ambition. He implies that a lack of mistakes indicates a lack of risk-taking, which is the greater danger in technology.",
       "images": []
     },
     {
       "id": "q29",
       "text": "Imagination is more important than knowledge.",
       "author": "Albert Einstein",
-      "history": "From an interview in the Saturday Evening Post, 1929.",
+      "history": "From an interview in 1929, Einstein elevated creativity above raw data. He argued that while knowledge is limited to what we know now, imagination embraces the entire future and drives progress.",
       "images": []
     },
     {
       "id": "q30",
       "text": "The biggest risk is not taking any risk.",
       "author": "Mark Zuckerberg",
-      "history": "Spoken at Y Combinator's Startup School.",
+      "history": "Spoken at Y Combinator's Startup School, this quote addresses the paralysis of caution. Zuckerberg warns that in a rapidly changing world, playing it safe is the one strategy guaranteed to result in obsolescence.",
       "images": []
     },
     {
       "id": "q31",
       "text": "The science of today is the technology of tomorrow.",
       "author": "Edward Teller",
-      "history": "Teller was a theoretical physicist known as the father of the hydrogen bomb.",
+      "history": "Teller, a theoretical physicist, highlighted the lag between discovery and application. His words remind us that abstract research, however theoretical, often lays the groundwork for practical tools decades later.",
       "images": []
     },
     {
       "id": "q32",
       "text": "If you are not embarrassed by the first version of your product, you’ve launched too late.",
       "author": "Reid Hoffman",
-      "history": "A core tenet of the 'Lean Startup' methodology.",
+      "history": "A core tenet of the 'Lean Startup' methodology, this encourages speed over perfection. Hoffman argues that real-world feedback is more valuable than internal polish, so delaying a launch is often a waste of time.",
       "images": []
     },
     {
       "id": "q33",
       "text": "It always seems impossible until it is done.",
       "author": "Nelson Mandela",
-      "history": "Often applied to social change, but widely used in innovation contexts.",
+      "history": "Often applied to social change, this quote is also widely used in innovation contexts. Mandela speaks to the psychological barrier of the 'impossible', noting that barriers often vanish the moment someone breaks through them.",
       "images": []
     },
     {
       "id": "q34",
       "text": "Don’t worry about people stealing your design work. Worry about the day they stop.",
       "author": "Jeffrey Zeldman",
-      "history": "A perspective on competition and leadership in design.",
+      "history": "A perspective on competition and leadership in design. Zeldman suggests that being imitated is a sign of leadership, while being ignored is a far more worrying sign of irrelevance.",
       "images": []
     },
     {
       "id": "q35",
       "text": "Genius is one percent inspiration and ninety-nine percent perspiration.",
       "author": "Thomas Edison",
-      "history": "Published in Harper's Monthly, 1932.",
+      "history": "Published in Harper's Monthly in 1932, this de-romanticizes the concept of genius. Edison insists that success is almost entirely the result of hard work and persistence, rather than a lightning strike of divine talent.",
       "images": []
     },
     {
       "id": "q36",
       "text": "The true sign of intelligence is not knowledge but imagination.",
       "author": "Albert Einstein",
-      "history": "Highlighting creativity as the engine of science.",
+      "history": "Highlighting creativity as the engine of science, Einstein distinguishes between storing facts and synthesizing new ideas. He valued the ability to visualize the unknown over the ability to recall the known.",
       "images": []
     },
     {
       "id": "q37",
       "text": "Creativity is intelligence having fun.",
       "author": "Albert Einstein",
-      "history": "Widely attributed to Einstein regarding the joy of discovery.",
-      "images": []
-    },
-    {
-      "id": "q38",
-      "text": "Work like there is someone working 24 hours a day to take it all away from you.",
-      "author": "Mark Cuban",
-      "history": "Cuban's advice on work ethic for entrepreneurs.",
+      "history": "Widely attributed to Einstein, this quote frames creativity as a joyful exercise of the mind. It suggests that playfulness and curiosity are not distractions, but essential states for high-level intellectual work.",
       "images": []
     },
     {
       "id": "q39",
       "text": "Do not let what you cannot do interfere with what you can do.",
       "author": "John Wooden",
-      "history": "While a sports quote, it is a staple in management philosophy.",
+      "history": "While originally a sports quote, this is a staple in management philosophy. Wooden advises focusing on one's circle of influence rather than wasting energy worrying about external factors beyond one's control.",
       "images": []
     },
     {
       "id": "q40",
       "text": "Look deep into nature, and then you will understand everything better.",
       "author": "Albert Einstein",
-      "history": "Advice on observation and understanding complex systems.",
+      "history": "Advice on observation and understanding complex systems. Einstein believed that the laws of physics and the patterns of the universe are mirrored in the natural world, waiting to be observed.",
       "images": []
     },
     {
       "id": "q41",
       "text": "Competition is for losers.",
       "author": "Peter Thiel",
-      "history": "From his book 'Zero to One', arguing for monopolies through innovation.",
+      "history": "From his book 'Zero to One', Thiel argues for monopolies through innovation. He believes that true innovators should seek to create something so unique that they escape competition entirely, rather than fighting for scraps.",
       "images": []
     },
     {
       "id": "q42",
       "text": "The function of good software is to make the complex appear to be simple.",
       "author": "Grady Booch",
-      "history": "Booch is a pioneer in software architecture.",
+      "history": "Booch, a pioneer in software architecture, defines the goal of abstraction. He highlights that the engineer's burden is to hide the messy mechanics of a system so the user experiences only clarity.",
       "images": []
     },
     {
       "id": "q43",
       "text": "If you want to have good ideas, you must have many ideas.",
       "author": "Linus Pauling",
-      "history": "Pauling was a double Nobel Prize winner (Chemistry and Peace).",
+      "history": "Pauling, a double Nobel Prize winner, advocates for quantity as a path to quality. He suggests that you cannot filter for gold without first mining a large amount of ore.",
       "images": []
     },
     {
       "id": "q44",
       "text": "Don’t find customers for your products, find products for your customers.",
       "author": "Seth Godin",
-      "history": "Godin's reversal of traditional marketing logic.",
+      "history": "Godin's reversal of traditional marketing logic puts the user's needs first. Instead of pushing a product, he suggests observing the customer's pain points and building the solution they are already waiting for.",
       "images": []
     },
     {
       "id": "q45",
       "text": "We cannot solve our problems with the same thinking we used when we created them.",
       "author": "Albert Einstein",
-      "history": "A call for paradigm shifts in problem-solving.",
+      "history": "A call for paradigm shifts in problem-solving. Einstein notes that significant problems are often the result of a specific level of consciousness, and can only be solved by rising to a higher level of awareness.",
       "images": []
     },
     {
       "id": "q46",
       "text": "Design is not just what it looks like and feels like. Design is how it works.",
       "author": "Steve Jobs",
-      "history": "Discussing the functional depth of Apple products.",
+      "history": "Discussing the functional depth of Apple products, Jobs rejected design as mere decoration. He argued that true design is about the architecture of the user experience and the utility of the object.",
       "images": []
     },
     {
       "id": "q47",
       "text": "Above all, don't fear difficult moments. The best comes from them.",
       "author": "Rita Levi-Montalcini",
-      "history": "Italian Nobel laureate in Physiology or Medicine.",
-      "images": []
-    },
-    {
-      "id": "q48",
-      "text": "The universe is under no obligation to make sense to you.",
-      "author": "Neil deGrasse Tyson",
-      "history": "From his book 'Astrophysics for People in a Hurry'.",
+      "history": "Italian Nobel laureate in Physiology or Medicine, Levi-Montalcini spoke from experience. Her work was often conducted in hiding during WWII, proving that great struggle often precedes great discovery.",
       "images": []
     },
     {
       "id": "q49",
       "text": "Timing, perseverance, and ten years of trying will eventually make you look like an overnight success.",
       "author": "Biz Stone",
-      "history": "Co-founder of Twitter on the illusion of instant success.",
+      "history": "The co-founder of Twitter dispels the illusion of instant success. He explains that what the public sees as a sudden breakthrough is usually the result of a decade of invisible grind.",
       "images": []
     },
     {
       "id": "q50",
       "text": "You can't use up creativity. The more you use, the more you have.",
       "author": "Maya Angelou",
-      "history": "Though a poet, this is a core mantra for innovators.",
+      "history": "Though a poet, this is a core mantra for innovators. Angelou rejects the idea that creativity is a finite resource, framing it instead as a muscle that grows stronger with exertion.",
       "images": []
     },
     {
       "id": "q51",
       "text": "Mathematics is the language with which God has written the universe.",
       "author": "Galileo Galilei",
-      "history": "Galileo's view on the fundamental nature of physics.",
+      "history": "Galileo's view on the fundamental nature of physics positions math as the code of reality. It reflects the Renaissance belief that understanding numbers is the key to decoding the divine order of nature.",
       "images": []
     },
     {
       "id": "q52",
       "text": "Chase the vision, not the money, the money will end up following you.",
       "author": "Tony Hsieh",
-      "history": "The late CEO of Zappos on passion-led business.",
+      "history": "The late CEO of Zappos advocated for passion-led business. He believed that companies driven by a higher purpose naturally attract the loyalty and value that result in financial success.",
       "images": []
     },
     {
       "id": "q53",
       "text": "Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it's the only thing that ever has.",
       "author": "Margaret Mead",
-      "history": "Mead was a pioneering cultural anthropologist.",
+      "history": "Mead, a pioneering anthropologist, studied how cultures evolve. Her famous quote reminds us that mass movements always originate from a handful of dedicated individuals.",
       "images": []
     },
     {
       "id": "q54",
       "text": "Discovery consists of seeing what everybody has seen and thinking what nobody has thought.",
       "author": "Albert Szent-Györgyi",
-      "history": "Nobel Prize winner who discovered Vitamin C.",
+      "history": "The Nobel Prize winner who discovered Vitamin C defines the essence of insight. He suggests that the facts are usually visible to everyone; the genius lies in the interpretation.",
       "images": []
     },
     {
       "id": "q55",
       "text": "Life is too short to build something nobody wants.",
       "author": "Ash Maurya",
-      "history": "Author of 'Running Lean', focusing on product-market fit.",
+      "history": "Author of 'Running Lean', Maurya focuses on product-market fit. His advice is a time-management warning for entrepreneurs: validate your idea before you waste years building it.",
       "images": []
     },
     {
       "id": "q56",
       "text": "If you don't build your dream, someone else will hire you to help them build theirs.",
       "author": "Dhirubhai Ambani",
-      "history": "Founder of Reliance Industries.",
+      "history": "The founder of Reliance Industries speaks to agency and ambition. He frames employment as a trade-off where you sell your time to construct another person's vision instead of your own.",
       "images": []
     },
     {
       "id": "q57",
       "text": "Science knows no country, because knowledge belongs to humanity, and is the torch which illuminates the world.",
       "author": "Louis Pasteur",
-      "history": "Pasteur emphasizes the universal nature of scientific truth.",
+      "history": "Pasteur emphasizes the universal nature of scientific truth. He argues that while politics may have borders, the laws of nature and the benefits of medicine apply to all human beings equally.",
       "images": []
     },
     {
       "id": "q58",
       "text": "The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge.",
       "author": "Stephen Hawking",
-      "history": "Often attributed to Hawking regarding intellectual humility.",
+      "history": "Often attributed to Hawking, this quote warns against intellectual arrogance. It suggests that knowing nothing is safer than believing you know everything, as the latter prevents further learning.",
       "images": []
     },
     {
       "id": "q59",
       "text": "The value of an idea lies in the using of it.",
       "author": "Thomas Edison",
-      "history": "Emphasizing utility and execution.",
+      "history": "Edison was a pragmatist who held patents, not just theories. He believed that an idea has zero intrinsic value until it is applied to the physical world to solve a problem.",
       "images": []
     },
     {
       "id": "q60",
       "text": "A person who never made a mistake never tried anything new.",
       "author": "Albert Einstein",
-      "history": "Normalizing failure as a part of the learning process.",
+      "history": "Einstein normalizes failure as a part of the learning process. He implies that a perfect record is actually a sign of cowardice, indicating that one has never stepped outside their comfort zone.",
       "images": []
     },
     {
       "id": "q61",
       "text": "The electric light did not come from the continuous improvement of candles.",
       "author": "Oren Harari",
-      "history": "A quote on disruptive innovation versus incremental improvement.",
+      "history": "A quote on disruptive innovation versus incremental improvement. Harari points out that optimizing the old technology will never lead to the breakthrough of the new; you must leap, not just improve.",
       "images": []
     },
     {
       "id": "q62",
       "text": "High expectations are the key to everything.",
       "author": "Sam Walton",
-      "history": "Founder of Walmart on setting standards.",
+      "history": "The founder of Walmart believed in the self-fulfilling prophecy of standards. He argued that people generally perform to the level demanded of them, so setting the bar high is the first step to quality.",
       "images": []
     },
     {
       "id": "q63",
       "text": "Stay hungry, stay foolish.",
       "author": "Steve Jobs",
-      "history": "Quoting the Whole Earth Catalog in his Stanford address.",
+      "history": "Quoting the Whole Earth Catalog in his Stanford address, Jobs used this as a sign-off. 'Hungry' refers to the drive for more, and 'foolish' refers to the willingness to take risks that others deem unwise.",
       "images": []
     },
     {
       "id": "q64",
       "text": "Equipped with his five senses, man explores the universe around him and calls the adventure Science.",
       "author": "Edwin Hubble",
-      "history": "Hubble revolutionized our understanding of the cosmos.",
-      "images": []
-    },
-    {
-      "id": "q65",
-      "text": "Beware of little expenses. A small leak will sink a great ship.",
-      "author": "Benjamin Franklin",
-      "history": "Early American wisdom on financial management.",
+      "history": "Hubble, who revolutionized our understanding of the cosmos, frames science as an adventure. He portrays it not as a dry academic pursuit, but as a sensory exploration of our environment.",
       "images": []
     },
     {
       "id": "q66",
       "text": "If I have seen further, it is by standing on the shoulders of giants.",
       "author": "Isaac Newton",
-      "history": "Newton acknowledging the work of predecessors like Kepler and Galileo.",
+      "history": "In a letter to Robert Hooke, Newton displayed humility by acknowledging his predecessors. He recognized that his discoveries were only possible because of the foundation laid by astronomers like Kepler and Galileo.",
       "images": []
     },
     {
       "id": "q67",
       "text": "Quality is more important than quantity. One home run is much better than two doubles.",
       "author": "Steve Jobs",
-      "history": "Jobs on the philosophy of product release.",
+      "history": "Jobs on the philosophy of product release and focus. He believed that shipping one revolutionary product was infinitely more valuable to a company's brand than shipping a dozen mediocre ones.",
       "images": []
     },
     {
       "id": "q68",
       "text": "There are no passengers on Spaceship Earth. We are all crew.",
       "author": "Marshall McLuhan",
-      "history": "A call to responsibility for our planet.",
+      "history": "A call to responsibility for our planet, popularized during the environmental movement. It suggests that passivity is not an option; everyone living on Earth has a role to play in its maintenance.",
       "images": []
     },
     {
       "id": "q69",
       "text": "Nothing is less productive than to make more efficient what should not be done at all.",
       "author": "Peter Drucker",
-      "history": "Management guru on the difference between efficiency and effectiveness.",
+      "history": "The management guru distinguishes between efficiency (doing things right) and effectiveness (doing the right things). He warns that optimizing a useless process is a dangerous waste of resources.",
       "images": []
     },
     {
       "id": "q70",
       "text": "I never dreamed about success. I worked for it.",
       "author": "Estée Lauder",
-      "history": "Lauder on the grit required to build a beauty empire.",
+      "history": "Lauder, who built a beauty empire, rejects the passive nature of 'dreaming'. She emphasizes that while vision is important, it is the daily grind of execution that actually constructs a business.",
       "images": []
     },
     {
       "id": "q71",
       "text": "The good thing about science is that it's true whether or not you believe in it.",
       "author": "Neil deGrasse Tyson",
-      "history": "Defending scientific objectivity on 'Real Time with Bill Maher'.",
+      "history": "Defending scientific objectivity on 'Real Time with Bill Maher', Tyson separates fact from opinion. He underscores that physical laws exist independently of human acceptance or political ideology.",
       "images": []
     },
     {
       "id": "q72",
       "text": "First, think. Second, believe. Third, dream. And finally, dare.",
       "author": "Walt Disney",
-      "history": "The framework of Disney's creative process.",
+      "history": "The framework of Disney's creative process, moving from intellect to faith to imagination to action. It outlines a complete lifecycle for bringing an idea into reality.",
       "images": []
     },
     {
       "id": "q73",
       "text": "An investment in knowledge pays the best interest.",
       "author": "Benjamin Franklin",
-      "history": "Advocating for education and self-improvement.",
+      "history": "Advocating for education, Franklin uses financial terms to describe intellectual growth. He suggests that unlike material assets which depreciate, skills and knowledge compound in value over time.",
       "images": []
     },
     {
       "id": "q74",
       "text": "The impossible is often the untried.",
       "author": "Jim Goodwin",
-      "history": "On the perception of difficulty.",
+      "history": "On the perception of difficulty, Goodwin suggests that 'impossibility' is often just a lack of attempt. Many barriers are psychological rather than physical, waiting for someone to simply try.",
       "images": []
     },
     {
       "id": "q75",
       "text": "As a technologist, I see how AI and the fourth industrial revolution will impact every aspect of people’s lives.",
       "author": "Fei-Fei Li",
-      "history": "Professor of Computer Science at Stanford and AI pioneer.",
+      "history": "Li, an AI pioneer at Stanford, speaks to the ubiquity of the coming age. She emphasizes that AI is not a niche vertical but a horizontal layer that will transform every industry.",
       "images": []
     },
     {
       "id": "q76",
       "text": "Your time is limited, so don't waste it living someone else's life.",
       "author": "Steve Jobs",
-      "history": "A reminder of mortality as a motivator.",
+      "history": "A reminder of mortality as a motivator from his Stanford speech. Jobs argues that awareness of death is the best tool to strip away external expectations and reveal what you truly want to do.",
       "images": []
     },
     {
       "id": "q77",
       "text": "Science is organized knowledge. Wisdom is organized life.",
       "author": "Immanuel Kant",
-      "history": "Distinguishing between data and application.",
+      "history": "Kant distinguishes between data and application. He suggests that while science can categorize the world, it takes wisdom to understand how to live meaningfully within it.",
       "images": []
     },
     {
       "id": "q78",
       "text": "Don't be afraid to give up the good to go for the great.",
       "author": "John D. Rockefeller",
-      "history": "On ambition and risk-taking in business.",
+      "history": "On ambition and risk-taking in business, Rockefeller advises against settling. He warns that comfort ('the good') is often the biggest obstacle to achieving excellence ('the great').",
       "images": []
     },
     {
       "id": "q79",
       "text": "The most dangerous phrase in the language is, 'We've always done it this way.'",
       "author": "Grace Hopper",
-      "history": "Hopper fighting against bureaucracy and stagnation.",
+      "history": "Hopper spent her career fighting bureaucracy and stagnation in the Navy and computing. She viewed tradition as a poor justification for action, always pushing for optimization and new methods.",
       "images": []
     },
     {
       "id": "q80",
       "text": "The greatest danger for most of us is not that our aim is too high and we miss it, but that it is too low and we reach it.",
       "author": "Michelangelo",
-      "history": "Renaissance artist on the importance of ambitious goals.",
+      "history": "The Renaissance artist speaks on the importance of ambitious goals. He suggests that easy successes are deceptive, and that it is better to fail at something grand than to succeed at something mediocre.",
       "images": []
     },
     {
       "id": "q81",
       "text": "If you can dream it, you can do it.",
       "author": "Walt Disney",
-      "history": "Disney's belief in the power of visualization.",
+      "history": "Disney's belief in the power of visualization and will. While simple, it drove the creation of an empire that redefined entertainment, proving that the physical world yields to imagination.",
       "images": []
     },
     {
       "id": "q82",
       "text": "Opportunity is missed by most people because it is dressed in overalls and looks like work.",
       "author": "Thomas Edison",
-      "history": "On the lack of shortcuts to success.",
+      "history": "On the lack of shortcuts to success, Edison dismisses the idea of luck. He argues that 'opportunities' are usually just hard tasks that others were too lazy to undertake.",
       "images": []
     },
     {
       "id": "q83",
       "text": "To invent, you need a good imagination and a pile of junk.",
       "author": "Thomas Edison",
-      "history": "Describing the resourcefulness required for invention.",
-      "images": []
-    },
-    {
-      "id": "q84",
-      "text": "The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom.",
-      "author": "Isaac Asimov",
-      "history": "Asimov was a biochemistry professor and prolific sci-fi author.",
+      "history": "Describing the resourcefulness required for invention, Edison celebrates tinkering. He implies that innovation doesn't require pristine labs, but rather the creativity to recombine existing, discarded materials.",
       "images": []
     },
     {
       "id": "q85",
       "text": "You don't learn to walk by following rules. You learn by doing, and by falling over.",
       "author": "Richard Branson",
-      "history": "Virgin Group founder on experiential learning.",
+      "history": "Virgin Group founder on experiential learning. Branson argues that reading manuals is no substitute for the physical feedback of failure and recovery.",
       "images": []
     },
     {
       "id": "q86",
       "text": "Logic will get you from A to B. Imagination will take you everywhere.",
       "author": "Albert Einstein",
-      "history": "Einstein valuing creative leaps over linear thought.",
+      "history": "Einstein valuing creative leaps over linear thought. He recognized that while logic is necessary for proof, it is imagination that expands the boundaries of what can be proven.",
       "images": []
     },
     {
       "id": "q87",
       "text": "The best way to start is to stop talking and begin doing.",
       "author": "Walt Disney",
-      "history": "Prioritizing action over planning.",
+      "history": "Prioritizing action over planning, Disney grew frustrated with endless meetings. He believed that momentum is only generated by physical movement, not by verbal debate.",
       "images": []
     },
     {
       "id": "q88",
       "text": "Every great dream begins with a dreamer.",
       "author": "Harriet Tubman",
-      "history": "Though a freedom fighter, her words inspire visionary leadership.",
+      "history": "Though a freedom fighter, Tubman's words inspire visionary leadership. She reminds us that all systemic changes, no matter how large, start as a single thought in the mind of one person.",
       "images": []
     },
     {
       "id": "q89",
       "text": "It’s hard to do a really good job on anything you don’t think about in the shower.",
       "author": "Paul Graham",
-      "history": "Graham on obsession and deep focus.",
+      "history": "Graham on obsession and deep focus. He suggests that true excellence requires a problem to occupy your subconscious mind, spilling over into your downtime.",
       "images": []
     },
     {
       "id": "q90",
       "text": "Computer science is no more about computers than astronomy is about telescopes.",
       "author": "Edsger W. Dijkstra",
-      "history": "Dijkstra was a foundational figure in computer science.",
+      "history": "Dijkstra, a foundational figure in algorithms, clarifies the field. He argues that CS is about the study of computation and structure, not just the physical hardware used to execute it.",
       "images": []
     },
     {
       "id": "q91",
       "text": "One never notices what has been done; one can only see what remains to be done.",
       "author": "Marie Curie",
-      "history": "Curie's relentless focus on future discovery.",
+      "history": "Curie's relentless focus on future discovery illustrates the scientific mindset. No matter how much is achieved, the horizon of the unknown always recedes, demanding more work.",
       "images": []
     },
     {
       "id": "q92",
       "text": "Optimism is an essential ingredient of innovation. How else can the individual welcome change over security?",
       "author": "Robert Noyce",
-      "history": "Noyce was the co-founder of Intel and inventor of the microchip.",
+      "history": "Noyce, the 'Mayor of Silicon Valley', links mindset to progress. He argues that a pessimist will always choose safety, so only an optimist is psychologically capable of the risk required to innovate.",
       "images": []
     },
     {
       "id": "q93",
       "text": "If you think you can do a thing or think you can't do a thing, you're right.",
       "author": "Henry Ford",
-      "history": "On the power of mindset and self-belief.",
+      "history": "On the power of mindset and self-belief. Ford emphasizes that your internal narrative sets the ceiling on your performance; if you believe you will fail, you will subconsciously ensure that you do.",
       "images": []
     },
     {
       "id": "q94",
       "text": "Everything is theoretically impossible, until it is done.",
       "author": "Robert A. Heinlein",
-      "history": "From the science fiction writer.",
+      "history": "From the science fiction writer, this quote reminds us that 'impossibility' is a temporary label. It reflects the history of technology, where flight, space travel, and the internet were all once deemed fantasies.",
       "images": []
     },
     {
       "id": "q95",
       "text": "The greatest discovery of my generation is that a human being can alter his life by altering his attitudes.",
       "author": "William James",
-      "history": "James was a pioneer in psychology.",
+      "history": "James, a pioneer in psychology, focuses on neuroplasticity and mindset. He argues that we are not victims of our personality, but active shapers of our own reality through our thoughts.",
       "images": []
     },
     {
       "id": "q96",
       "text": "Simplicity is the soul of efficiency.",
       "author": "Austin Freeman",
-      "history": "Often quoted in software development and engineering.",
+      "history": "Often quoted in software development and engineering, this maxim links design to performance. It suggests that complex systems are prone to friction and failure, while simple ones run smoothly.",
       "images": []
     },
     {
       "id": "q97",
       "text": "You miss 100% of the shots you don't take.",
       "author": "Wayne Gretzky",
-      "history": "A sports quote universally applied to entrepreneurship.",
+      "history": "A sports quote universally applied to entrepreneurship. It simplifies risk analysis: inaction has a 0% success rate, while action, no matter how risky, always has a non-zero probability of success.",
       "images": []
     },
     {
       "id": "q98",
       "text": "The secret of change is to focus all of your energy, not on fighting the old, but on building the new.",
       "author": "Socrates",
-      "history": "Characterized in the dialogues of Dan Millman.",
+      "history": "Characterized in the dialogues of Dan Millman (Way of the Peaceful Warrior), this advises on resource allocation. It suggests that attacking the status quo creates resistance, while building a better alternative makes the old obsolete.",
       "images": []
     },
     {
       "id": "q99",
       "text": "I would rather have questions that can't be answered than answers that can't be questioned.",
       "author": "Richard Feynman",
-      "history": "Feynman on the importance of skepticism and curiosity.",
+      "history": "Feynman on the importance of skepticism and curiosity. He valued the integrity of the unknown over the comfort of dogma, believing that unquestionable answers are the death of science.",
       "images": []
     },
     {
       "id": "q100",
       "text": "Perseverance is not a long race; it is many short races one after the other.",
       "author": "Walter Elliot",
-      "history": "Defining grit as a series of small efforts.",
+      "history": "Defining grit as a series of small efforts rather than one giant heave. It makes endurance manageable by breaking it down into day-by-day or hour-by-hour victories.",
       "images": []
     },
     {
       "id": "q101",
       "text": "Data is a precious thing and will last longer than the systems themselves.",
       "author": "Tim Berners-Lee",
-      "history": "The inventor of the World Wide Web.",
+      "history": "The inventor of the World Wide Web speaks to the longevity of information. He warns that hardware and software are transient, but the data they hold is the enduring legacy of our civilization.",
       "images": []
     },
     {
       "id": "q102",
       "text": "The complexity for the user is inversely proportional to the complexity for the developer.",
       "author": "Unknown",
-      "history": "A common maxim in User Experience (UX) design.",
+      "history": "A common maxim in User Experience (UX) design, often called the 'Law of Conservation of Complexity'. It dictates that if a developer is lazy, the user suffers; if the developer works hard, the user has it easy.",
       "images": []
     },
     {
       "id": "q103",
       "text": "Talk is cheap. Show me the code.",
       "author": "Linus Torvalds",
-      "history": "Torvalds is the creator of Linux.",
+      "history": "Torvalds, creator of Linux, values evidence over promises. In the open-source world, reputation is built on working contributions, not on theoretical discussions or marketing.",
       "images": []
     },
     {
       "id": "q104",
       "text": "It is not in the stars to hold our destiny but in ourselves.",
       "author": "William Shakespeare",
-      "history": "From Julius Caesar, emphasizing human agency.",
+      "history": "From Julius Caesar, this line emphasizes human agency over fate. It rejects the idea of pre-destination, placing the responsibility for our lives squarely in our own hands.",
       "images": []
     },
     {
       "id": "q105",
       "text": "I dwell in possibility.",
       "author": "Emily Dickinson",
-      "history": "A poetic view on the open-ended nature of the future.",
+      "history": "A poetic view on the open-ended nature of the future. Dickinson contrasts the narrow limits of prose/reality with the infinite horizon of poetry/possibility.",
       "images": []
     },
     {
       "id": "q106",
       "text": "The stone age did not end because the world ran out of stones, and the oil age will not end because we run out of oil.",
       "author": "Ahmed Zaki Yamani",
-      "history": "Saudi oil minister predicting that innovation drives energy transitions.",
+      "history": "The Saudi oil minister predicted that innovation drives energy transitions. He understood that superior technology (bronze, renewables) replaces old resources long before the old resources are actually exhausted.",
+      "images": []
+    },
+    {
+      "id": "q107",
+      "text": "The scientist is not a person who gives the right answers, he's one who asks the right questions.",
+      "author": "Claude Lévi-Strauss",
+      "history": "Lévi-Strauss, a renowned anthropologist, redefines the role of the expert. He suggests that the ability to frame a problem correctly is more valuable than merely knowing facts, as deep questions lead to new fields of study.",
+      "images": []
+    },
+    {
+      "id": "q108",
+      "text": "Science is the key to our future, and if you don’t believe in science, then you’re holding everybody back.",
+      "author": "Bill Nye",
+      "history": "Bill Nye 'The Science Guy' bluntly addresses the necessity of scientific literacy. He frames science denial not as a personal choice, but as a collective brake on the progress and survival of the human species.",
+      "images": []
+    },
+    {
+      "id": "q109",
+      "text": "The best way to find yourself is to lose yourself in the service of others.",
+      "author": "Mahatma Gandhi",
+      "history": "Gandhi expressed this sentiment to emphasize that the ego is best dissolved through altruism. It reflects his lifelong philosophy of 'Satyagraha' and the belief that true purpose is found in uplifting the community rather than self-aggrandizement.",
+      "images": []
+    },
+    {
+      "id": "q110",
+      "text": "Leadership and learning are indispensable to each other.",
+      "author": "John F. Kennedy",
+      "history": "Prepared for a speech in Dallas on the day of his assassination in 1963. Kennedy intended to convey that a leader who stops learning inevitably leads their people into stagnation; adaptability is the hallmark of command.",
+      "images": []
+    },
+    {
+      "id": "q111",
+      "text": "It is amazing what you can accomplish if you do not care who gets the credit.",
+      "author": "Harry S. Truman",
+      "history": "A motto for collaborative governance often kept on Truman's desk. It highlights the efficiency of selfless leadership, noting that ego battles are the primary obstacle to political and organizational progress.",
+      "images": []
+    },
+    {
+      "id": "q112",
+      "text": "When the power of love overcomes the love of power, the world will know peace.",
+      "author": "Jimi Hendrix",
+      "history": "A visionary take on political and social evolution from the rock icon. Hendrix identifies the 'love of power' as the root of conflict, suggesting a fundamental shift in human values is required for true global stability.",
+      "images": []
+    },
+    {
+      "id": "q113",
+      "text": "We are not makers of history. We are made by history.",
+      "author": "Martin Luther King, Jr.",
+      "history": "Dr. King acknowledges the context that shapes every leader. While he drove immense change, he recognized that he was also a product of the historical forces, struggles, and ancestors that came before him.",
       "images": []
     }
   ],
@@ -741,21 +755,21 @@
       "id": "p1",
       "text": "Two roads diverged in a yellow wood,\nAnd sorry I could not travel both\nAnd be one traveler, long I stood\nAnd looked down one as far as I could\nTo where it bent in the undergrowth;\n\nThen took the other, as just as fair,\nAnd having perhaps the better claim,\nBecause it was grassy and wanted wear;\nThough as for that the passing there\nHad worn them really about the same,\n\nAnd both that morning equally lay\nIn leaves no step had trodden black.\nOh, I kept the first for another day!\nYet knowing how way leads on to way,\nI doubted if I should ever come back.\n\nI shall be telling this with a sigh\nSomewhere ages and ages hence:\nTwo roads diverged in a wood, and I—\nI took the one less traveled by,\nAnd that has made all the difference.",
       "author": "Robert Frost",
-      "history": "From 'The Road Not Taken' (1916), one of the most famous American poems.",
+      "history": "From 'The Road Not Taken' (1916), one of the most famous American poems. It is often misinterpreted as a celebration of individualism, though Frost intended it as a tricky reflection on how we narrate our choices after the fact.",
       "images": []
     },
     {
       "id": "p2",
       "text": "Do not go gentle into that good night,\nOld age should burn and rave at close of day;\nRage, rage against the dying of the light.\n\nThough wise men at their end know dark is right,\nBecause their words had forked no lightning they\nDo not go gentle into that good night.\n\nGood men, the last wave by, crying how bright\nTheir frail deeds might have danced in a green bay,\nRage, rage against the dying of the light.\n\nWild men who caught and sang the sun in flight,\nAnd learn, too late, they grieved it on its way,\nDo not go gentle into that good night.\n\nGrave men, near death, who see with blinding sight\nBlind eyes could blaze like meteors and be gay,   \nRage, rage against the dying of the light.\n\nAnd you, my father, there on the sad height,\nCurse, bless, me now with your fierce tears, I pray.\nDo not go gentle into that good night.\nRage, rage against the dying of the light.",
       "author": "Dylan Thomas",
-      "history": "Written in 1947, addressed to his dying father.",
+      "history": "Written in 1947, this villanelle is addressed to the poet's dying father. It is a raw, emotional plea for the human spirit to fight for life until the very last breath, rejecting resignation in the face of death.",
       "images": []
     },
     {
       "id": "p4",
-      "text": "If you can keep your head when all about you   \n    Are losing theirs and blaming it on you,   \nIf you can trust yourself when all men doubt you,\n    But make allowance for their doubting too;   \nIf you can wait and not be tired by waiting,\n    Or being lied about, don’t deal in lies,\nOr being hated, don’t give way to hating,\n    And yet don’t look too good, nor talk too wise:\n\nIf you can dream—and not make dreams your master;   \n    If you can think—and not make thoughts your aim;   \nIf you can meet with Triumph and Disaster\n    And treat those two impostors just the same;   \nIf you can bear to hear the truth you’ve spoken\n    Twisted by knaves to make a trap for fools,\nOr watch the things you gave your life to, broken,\n    And stoop and build ’em up with worn-out tools:\n\nIf you can make one heap of all your winnings\n    And risk it on one turn of pitch-and-toss,\nAnd lose, and start again at your beginnings\n    And never breathe a word about your loss;\nIf you can force your heart and nerve and sinew\n    To serve your turn long after they are gone,   \nAnd so hold on when there is nothing in you\n    Except the Will which says to them: ‘Hold on!’\n\nIf you can talk with crowds and keep your virtue,   \n    Or walk with Kings—nor lose the common touch,\nIf neither foes nor loving friends can hurt you,\n    If all men count with you, but none too much;\nIf you can fill the unforgiving minute\n    With sixty seconds’ worth of distance run,   \nYours is the Earth and everything that’s in it,   \n    And—which is more—you’ll be a Man, my son!",
+      "text": "If you can keep your head when all about you   \n    Are losing theirs and blaming it on you,   \nIf you can trust yourself when all men doubt you,\n    But make allowance for their doubting too;   \nIf you can wait and not be tired by waiting,\n    Or being lied about, don’t deal in lies,\nOr being hated, don’t give way to hating,\n    And yet don’t look too good, nor talk too wise:\n\nIf you can dream—and not make dreams your master;   \n    If you can think—and not make thoughts your aim;   \nIf you can meet with Triumph and Disaster\n    And treat those two impostors just the same;   \nIf you can bear to hear the truth you’ve spoken\n    Twisted by knaves to make a trap for fools,\nOr watch the things you gave your life to, broken,\n    And stoop and build ’em up with worn-out tools:\n\nIf you can make one heap of all your winnings\n    And risk it on one turn of pitch-and-toss,\nAnd lose, and start again at your beginnings\n    And never breathe a word about your loss;\nIf you can force your heart and nerve and sinew\n    To serve your turn long after they are gone,   \n    And so hold on when there is nothing in you\n    Except the Will which says to them: ‘Hold on!’\n\nIf you can talk with crowds and keep your virtue,   \n    Or walk with Kings—nor lose the common touch,\nIf neither foes nor loving friends can hurt you,\n    If all men count with you, but none too much;\nIf you can fill the unforgiving minute\n    With sixty seconds’ worth of distance run,   \nYours is the Earth and everything that’s in it,   \n    And—which is more—you’ll be a Man, my son!",
       "author": "Rudyard Kipling",
-      "history": "Opening lines from 'If—' (1895), written as advice to his son.",
+      "history": "Opening lines from 'If—' (1895), written as advice to his son, John. It is a masterpiece of Victorian stoicism, outlining the balance and composure required to be a virtuous and mature leader.",
       "images": []
     }
   ]

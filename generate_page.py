@@ -81,7 +81,6 @@ def generate_html(quotes, poem, apod=None):
             # Handle video (usually YouTube embed)
             apod_image_html = f'''
             <section class="apod-section">
-                <h2>Astronomy Picture of the Day</h2>
                 <div class="apod-media">
                     <iframe src="{apod["url"]}" frameborder="0" allowfullscreen></iframe>
                 </div>
@@ -92,7 +91,6 @@ def generate_html(quotes, poem, apod=None):
             image_url = apod.get("hdurl") or apod.get("url")
             apod_image_html = f'''
             <section class="apod-section">
-                <h2>Astronomy Picture of the Day</h2>
                 <div class="apod-media">
                     <a href="{image_url}" target="_blank">
                         <img src="{apod["url"]}" alt="{apod.get("title", "NASA APOD")}">
@@ -105,10 +103,14 @@ def generate_html(quotes, poem, apod=None):
         copyright_text = f'<p class="apod-copyright">Image Credit: {apod["copyright"]}</p>' if apod.get("copyright") else ""
         apod_description_html = f'''
         <section class="apod-description">
-            <b><p class="apod-title">{apod.get("title", "")}</p></b>
+            <div class="apod-title-container">
+                <h3 class="apod-title">{apod.get("title", "")}</h3>
+            </div>
             <p class="apod-explanation">{apod.get("explanation", "")}</p>
-            {copyright_text}
-            <p class="apod-credit">Image courtesy of <a href="https://apod.nasa.gov/apod/astropix.html" target="_blank">NASA APOD</a></p>
+            <div class="apod-footer">
+                {copyright_text}
+                <p class="apod-credit">Image courtesy of <a href="https://apod.nasa.gov/apod/astropix.html" target="_blank">NASA APOD</a></p>
+            </div>
         </section>
         '''
     
@@ -356,11 +358,18 @@ def generate_html(quotes, poem, apod=None):
             border-radius: 12px;          /* Curved corners */
         }}
         
+        .apod-title-container {{
+            margin-bottom: 1.5rem;
+            padding-bottom: 1rem;
+            border-bottom: 1px solid var(--border-color);
+        }}
+        
         .apod-title {{
-            font-size: 1.1rem;
-            font-weight: 500;
+            font-size: 1.3rem;
+            font-weight: 600;
             color: var(--text-color);
-            margin-top: 1.2rem;           /* 20% more margin */
+            margin: 0;
+            letter-spacing: 0.02em;
         }}
         
         .apod-description {{
@@ -371,22 +380,29 @@ def generate_html(quotes, poem, apod=None):
         }}
         
         .apod-explanation {{
-            font-size: 0.95rem;
-            line-height: 1.6;
+            font-size: 1rem;
+            line-height: 1.9;             /* Increased line-height for readability */
             color: var(--text-color);
-            margin-bottom: 1.2rem;        /* 20% more margin */
+            margin-bottom: 1.8rem;
             max-width: 65ch;              /* 60-70 char limit */
+            text-align: justify;
+            text-justify: inter-word;
+        }}
+        
+        .apod-footer {{
+            padding-top: 1.2rem;
+            border-top: 1px solid var(--border-color);
         }}
         
         .apod-copyright {{
-            font-size: 0.8rem;
+            font-size: 0.85rem;
             color: var(--secondary-color);
             font-style: italic;
-            margin-bottom: 0.6rem;        /* 20% more margin */
+            margin-bottom: 0.5rem;
         }}
         
         .apod-credit {{
-            font-size: 0.8rem;
+            font-size: 0.85rem;
             color: var(--secondary-color);
         }}
         
@@ -487,9 +503,13 @@ def generate_html(quotes, poem, apod=None):
                 border-radius: 10px;
             }}
             
+            .apod-title-container {{
+                margin-bottom: 1.25rem;
+                padding-bottom: 0.875rem;
+            }}
+            
             .apod-title {{
-                font-size: 1rem;
-                margin-top: 1rem;
+                font-size: 1.15rem;
             }}
             
             .apod-description {{
@@ -499,8 +519,13 @@ def generate_html(quotes, poem, apod=None):
             }}
             
             .apod-explanation {{
-                font-size: 0.9rem;
-                line-height: 1.7;
+                font-size: 0.95rem;
+                line-height: 1.85;
+                text-align: left;
+            }}
+            
+            .apod-footer {{
+                padding-top: 1rem;
             }}
             
             footer {{
@@ -599,11 +624,12 @@ def generate_html(quotes, poem, apod=None):
             <h2>Today's Poem</h2>
             {poem_html}
             
+            <h2>Astronomy Picture of the Day Information</h2>
             {apod_description_html}
         </main>
         
         <footer>
-            <p>New inspiration every day</p>
+            <p>Get Started!</p>
         </footer>
     </div>
     <script>
