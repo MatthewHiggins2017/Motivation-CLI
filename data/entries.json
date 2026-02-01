@@ -1,0 +1,76 @@
+{
+  "quotes": [
+    {
+      "id": "q1",
+      "text": "The only way to do great work is to love what you do.",
+      "author": "Steve Jobs",
+      "history": "Said during his famous 2005 Stanford commencement speech.",
+      "images": []
+    },
+    {
+      "id": "q2",
+      "text": "In the middle of difficulty lies opportunity.",
+      "author": "Albert Einstein",
+      "history": "Einstein's perspective on challenges and growth.",
+      "images": []
+    },
+    {
+      "id": "q3",
+      "text": "The best time to plant a tree was 20 years ago. The second best time is now.",
+      "author": "Chinese Proverb",
+      "history": "Ancient wisdom about taking action.",
+      "images": []
+    },
+    {
+      "id": "q4",
+      "text": "What you get by achieving your goals is not as important as what you become by achieving your goals.",
+      "author": "Zig Ziglar",
+      "history": "Ziglar was a renowned motivational speaker.",
+      "images": []
+    },
+    {
+      "id": "q5",
+      "text": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+      "author": "Winston Churchill",
+      "history": "Spoken during World War II to inspire resilience.",
+      "images": []
+    },
+    {
+      "id": "q6",
+      "text": "The future belongs to those who believe in the beauty of their dreams.",
+      "author": "Eleanor Roosevelt",
+      "history": "Part of Roosevelt's lifelong advocacy for human potential.",
+      "images": []
+    }
+  ],
+  "poems": [
+    {
+      "id": "p1",
+      "text": "Two roads diverged in a wood, and I—\nI took the one less traveled by,\nAnd that has made all the difference.",
+      "author": "Robert Frost",
+      "history": "From 'The Road Not Taken' (1916), one of the most famous American poems.",
+      "images": []
+    },
+    {
+      "id": "p2",
+      "text": "Do not go gentle into that good night,\nOld age should burn and rave at close of day;\nRage, rage against the dying of the light.",
+      "author": "Dylan Thomas",
+      "history": "Written in 1947, addressed to his dying father.",
+      "images": []
+    },
+    {
+      "id": "p3",
+      "text": "Hope is the thing with feathers\nThat perches in the soul,\nAnd sings the tune without the words,\nAnd never stops at all.",
+      "author": "Emily Dickinson",
+      "history": "Part of Dickinson's exploration of hope and resilience.",
+      "images": []
+    },
+    {
+      "id": "p4",
+      "text": "If you can keep your head when all about you\nAre losing theirs and blaming it on you,\nIf you can trust yourself when all men doubt you,\nBut make allowance for their doubting too.",
+      "author": "Rudyard Kipling",
+      "history": "Opening lines from 'If—' (1895), written as advice to his son.",
+      "images": []
+    }
+  ]
+}
